@@ -497,21 +497,6 @@
     },
     {
       "id": "",
-      "key": "🔞91-精品-",
-      "name": "🔞91-精品-",
-      "api": "https://91jpzyw.com/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "",
       "key": "🔞百万资源",
       "name": "🔞百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
