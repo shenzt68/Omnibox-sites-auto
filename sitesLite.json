@@ -512,21 +512,6 @@
     },
     {
       "id": "",
-      "key": "🔞豆豆资源",
-      "name": "🔞豆豆资源",
-      "api": "https://api.douapi.cc/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "",
       "key": "🔞番号资源",
       "name": "🔞番号资源",
       "api": "http://fhapi9.com/api.php/provide/vod",
