@@ -92,21 +92,6 @@
     },
     {
       "id": "",
-      "key": "🎬豆瓣资源",
-      "name": "🎬豆瓣资源",
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "",
       "key": "🎬非凡资源",
       "name": "🎬非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
